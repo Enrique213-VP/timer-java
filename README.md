@@ -1,4 +1,6 @@
 # timer-java
+Recibe una cantidad de días y a partir de 
+esto calcula cuántas horas, minutos y segundos hay contenidos en dichos días.
 
 # Explicacion del proyecto
 1. Un applet que debe recibir por parte del usuario una cantidad de días y a partir de 
