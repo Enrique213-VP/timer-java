@@ -6,7 +6,7 @@ estos calcular cuántas horas, minutos y segundos hay contenidos en dichos días
 2. El applet contiene un botón que, al ser oprimido, muestre los resultados del cálculo efectuado.
 
 ## Contenido
-Maneneje applet, POO.
+Maneje applet, POO.
 
 
 ## Instalacion
