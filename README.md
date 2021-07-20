@@ -1,17 +1,12 @@
 # timer-java
 
 # Explicacion del proyecto
-1. Un applet que permita generar una factura de compra para tres productos; el usuario debe 
-ingresar la siguiente información:
-A. Nombre completo del cliente.
-B. Nombre de cada producto. 
-C. Valor unitario de cada producto.
-D. Cantidad por producto.
-2. El applet contiene un botón que, al ser oprimido, muestre en pantalla el total por producto y el valor 
-total de la factura.
+1. Un applet que debe recibir por parte del usuario una cantidad de días y a partir de 
+estos calcular cuántas horas, minutos y segundos hay contenidos en dichos días. 
+2. El applet contiene un botón que, al ser oprimido, muestre los resultados del cálculo efectuado.
 
 ## Contenido
-Maneneje applet.
+Maneneje applet, POO.
 
 
 ## Instalacion
@@ -29,10 +24,10 @@ NetBeans - 12.4
 
 Interface
 
-![image](https://user-images.githubusercontent.com/70002378/126101322-dee84369-affb-4b92-9358-9de5d1876850.png)
+![image](https://user-images.githubusercontent.com/70002378/126243908-b39a6010-53f5-4282-8dd9-2618bd27a75b.png)
 
-Customer Info
-![image](https://user-images.githubusercontent.com/70002378/126101421-2b385862-88a4-429c-816e-fa5090be9e76.png)
+With information of day 24
+![image](https://user-images.githubusercontent.com/70002378/126243966-c0e33b7e-c50f-48a2-8a2f-f394ca4b8f19.png)
 
 ### Notes
 Si desean contactar para dialogar acerca del proyecto les dejo un link [Linkedin](https://www.linkedin.com/in/sergio-vargas-pedraza-a86b24209/)
